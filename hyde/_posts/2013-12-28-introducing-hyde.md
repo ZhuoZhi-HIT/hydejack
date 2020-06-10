@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Hyde
-image:/assets/img/blog/louis-hansel.jpg
+//image:/assets/img/blog/louis-hansel.jpg
 description: >
   Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content.
 author: author2
