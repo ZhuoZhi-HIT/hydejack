@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:  /about/              
+url:              
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
 # (with leading /, but without the < >).
@@ -47,9 +47,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
+  - title:             About Me
+    url；              /aboutme/
+  - title:             Postgraduate Period
     url:               https://haojieshi98.github.io/
-  - title:             Hyde
+  - title:             Undergraduate Period
     url:               /hyde/
   - title:             Documentation
     url:               /docs/
