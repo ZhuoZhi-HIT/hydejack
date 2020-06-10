@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About Me
-    url；              /aboutme/
+    url:               /aboutme/
   - title:             Postgraduate Period
     url:               https://haojieshi98.github.io/
   - title:             Undergraduate Period
