@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hyde
+title: Undergraduate Period
 slug: hyde
 menu: true
 order: 2
