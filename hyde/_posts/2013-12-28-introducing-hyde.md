@@ -1,5 +1,5 @@
 ---
-//layout: post
+layout: post
 title: Introducing Hyde
 image:/assets/img/blog/louis-hansel.jpg
 description: >
