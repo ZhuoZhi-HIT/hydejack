@@ -34,7 +34,7 @@ I have strong hands-on ability since I was a child, and am full of curiosity abo
 
 ![7]({{site.baseurl}}/assets/img/lo.PNG)
 
-
+![8]({{site.baseurl}}/assets/img/qw.jpg)
 
 
 
