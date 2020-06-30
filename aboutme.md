@@ -1,5 +1,5 @@
 ---
-image: /assets/img/about_me/Ridebike.jpg
+image: /assets/img/about_me/ccc.jpg
 ---
 
 # About Me
