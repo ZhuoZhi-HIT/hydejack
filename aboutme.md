@@ -3,7 +3,7 @@ image: /assets/img/about_me/ccc.jpg
 ---
 
 # About Me
-![myself](/assets/img/about_me/Ridebike.jpg)
+![myself](/assets/img/about_me/ccc.jpg)
 ## Biography
 Zhuo Zhi received B.E degree in Control Science from Shandong University(SDU). Now he is a master candidate with the Department of Automatic Test and Control,Harbin Institute of Techology(HIT). He worked as a research assistant in SDU and took part in many national competitions. He has joined several projects, working on image process, circuit design, UAV and robot control and embedded system. My CV is [here.](https://github.com/ZhuoZhi-HIT/myself/blob/master/assets/img/CV.pdf)
 ## Education
