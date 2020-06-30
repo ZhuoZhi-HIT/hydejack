@@ -21,7 +21,7 @@ Zhuo Zhi received B.E degree in Control Science from Shandong University(SDU). N
     **GPA**: 84.96/100 **Rank**:15/120
 ## Publication
 * L. Liu, **Z. Zhi**, H. Zhang, Q. Guo, Y. Peng, D. Liu. “Related Entropy Theories Application in Condition Monitoring of Rotating Machineries”, published in Entropy 2019, 21(11), 1061.
-* **Z. Zhi**, L. Liu. “Reliability evaluation for the flight control system of unmanned aerial vehicle”, submitted for publication
+* **Z. Zhi**, L. Liu. “Enhancing the reliability of the quadrotor by formulating the control system model”, submitted for publication
 
 ## Research & Project
 ###  Participated in postgraduate period
