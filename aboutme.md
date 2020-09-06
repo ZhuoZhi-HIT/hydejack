@@ -26,7 +26,7 @@ Zhuo Zhi received B.E degree in Control Science from Shandong University(SDU). N
 ## Research & Project
 ###  Participated in postgraduate period
 * Modeling and verification of the quadrotor flight control system
-* Research on fault diagnosis method of core components of industrial robot
+* Research on Condition Acquisition and Estimation of Industrial Robot
 * The Review of Related Entropy Theories Application in Condition Monitoring of Rotating Machineries
 * Tetris game based on FPGA development board
 
