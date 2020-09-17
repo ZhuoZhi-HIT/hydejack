@@ -38,6 +38,7 @@ Zhuo Zhi received B.E degree in Control Science from Shandong University(SDU). N
 * Design of Small Biped Robot
 
 ## Research Interest
+* Equipment health monitoring, fault diagnosis and prognosis
 * Unmanned autonomous system (including UAV, USV, and UGV) control,  navigation, and perception
 * Embedded system
 * Robtics 
